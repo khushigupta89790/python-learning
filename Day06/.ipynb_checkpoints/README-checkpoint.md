@@ -29,7 +29,7 @@ A simple command-line Tic Tac Toe game built using Python as part of the Milesto
 
 ## Project Structure
 ```
-Tic_Tac_Toe_Project.ipynb
+Tic_Tac_Toe.ipynb
 README.md
 ```
 
